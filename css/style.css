@@ -1,8 +1,10 @@
+/*Look for the button element and make the button blue with white text*/
 button{
 	background:blue;
 	color:white;
 }
 
+/*when the button is active, turn the background of the button red*/
 button.active{
 	background:red;
 }
